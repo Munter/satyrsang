@@ -1,0 +1,4 @@
+AuthName "Satyr sangbogens administration"
+AuthType Basic
+AuthUserFile /customers/machina.dk/machina.dk/httpd.www/satyr/admin/.htpasswd
+Require valid-user 
